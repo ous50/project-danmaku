@@ -1,0 +1,9 @@
+{
+  video-title: "Never Gonna Give You Up"
+  video-author: "Rick Astley"
+  video-links:[https://www.youtube.com/watch?v=dQw4w9WgXcQ , https://www.bilibili.com/video/BV1GJ411x7h7] #optional, just for metadata match
+  danmaku-server:[] #optional if global danmaku server is set
+  danmaku-lang:[] #optional
+  danmaku-save-location: #optional
+  }
+                
